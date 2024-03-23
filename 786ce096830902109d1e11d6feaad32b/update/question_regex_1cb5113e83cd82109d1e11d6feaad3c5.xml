@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_regex">
+    <question_regex action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>USPhone</name>
+        <regex>\b(?:\+?1[-.\s]?)?(?:\(\d{3}\)|\d{3})[-.\s]?\d{3}[-.\s]?\d{4}\b</regex>
+        <regex_flag/>
+        <sys_class_name>question_regex</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-23 16:49:36</sys_created_on>
+        <sys_id>1cb5113e83cd82109d1e11d6feaad3c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>USPhone</sys_name>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_update_name>question_regex_1cb5113e83cd82109d1e11d6feaad3c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-23 16:49:36</sys_updated_on>
+        <validation_message>invalid phone number</validation_message>
+    </question_regex>
+    <sys_translated_text action="delete_multiple" query="documentkey=1cb5113e83cd82109d1e11d6feaad3c5"/>
+</record_update>

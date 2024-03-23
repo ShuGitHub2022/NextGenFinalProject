@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="BabySitter Requester">384a4be6834582109d1e11d6feaad3ba</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>create new babysitter request</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>New Request</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1354925_babysi_0_babysitter_request</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=7bd19362838582109d1e11d6feaad338</query>
+        <report/>
+        <roles>x_1354925_babysi_0.user,x_1354925_babysi_0.admin,x_1354925_babysi_0.babysitter,x_1354925_babysi_0.babysitter_manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-23 06:43:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f3ca472a834582109d1e11d6feaad314</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_update_name>sys_app_module_f3ca472a834582109d1e11d6feaad314</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-23 08:13:16</sys_updated_on>
+        <timeline_page/>
+        <title>New Request</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

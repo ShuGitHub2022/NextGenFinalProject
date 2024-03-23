@@ -11,7 +11,7 @@
         <copied_from_name>FlowTemplate: Record Trigger</copied_from_name>
         <description>When new babysitter request created, Requester will get confirmation email</description>
         <internal_name>new_request_created</internal_name>
-        <label_cache>[{"name":"Created_1.current.requester.email","label":"Trigger - Record Created➛babySitter Request Record➛Requester➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"Created_1.current.requester.first_name","label":"Trigger - Record Created➛babySitter Request Record➛Requester➛First name","reference":"","reference_display":"First name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"first_name"},{"name":"Created_1.current.start_date_time","label":"Trigger - Record Created➛babySitter Request Record➛Start Date/Time","reference":"","reference_display":"Start Date/Time","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_1354925_babysi_0_babysitter_request","column_name":"start_date_time"},{"name":"Created_1.current.end_date_time","label":"Trigger - Record Created➛babySitter Request Record➛End Date/Time","reference":"","reference_display":"End Date/Time","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_1354925_babysi_0_babysitter_request","column_name":"end_date_time"},{"name":"Created_1.current","label":"Trigger - Record Created➛babySitter Request Record","reference":"x_1354925_babysi_0_babysitter_request","reference_display":"babySitter Request","type":"reference","base_type":"reference","attributes":{}},{"name":"22cb63db-88ba-49fa-a20c-7841ef4bc284.record.assignment_group.manager.email","label":"1 - Update Record➛babySitter Request Record➛Assignment group➛Manager➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"}]</label_cache>
+        <label_cache>[{"name":"22cb63db-88ba-49fa-a20c-7841ef4bc284.record.assignment_group.manager.email","label":"1 - Update Record➛babySitter Request Record➛Assignment group➛Manager➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"Created_1.current","label":"Trigger - Record Created➛babySitter Request Record","reference":"x_1354925_babysi_0_babysitter_request","reference_display":"BabySitter Request","type":"reference","base_type":"reference","attributes":{}},{"name":"Created_1.current.end_date_time","label":"Trigger - Record Created➛babySitter Request Record➛End Date/Time","reference":"","reference_display":"End Date/Time","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_1354925_babysi_0_babysitter_request","column_name":"end_date_time"},{"name":"Created_1.current.start_date_time","label":"Trigger - Record Created➛babySitter Request Record➛Start Date/Time","reference":"","reference_display":"Start Date/Time","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_1354925_babysi_0_babysitter_request","column_name":"start_date_time"},{"name":"Created_1.current.requester.first_name","label":"Trigger - Record Created➛babySitter Request Record➛Requester➛First name","reference":"","reference_display":"First name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"first_name"},{"name":"Created_1.current.requester.email","label":"Trigger - Record Created➛babySitter Request Record➛Requester➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"}]</label_cache>
         <master_snapshot>76f9d1da83c902109d1e11d6feaad311</master_snapshot>
         <name>New Request Created</name>
         <natlang/>
@@ -23,14 +23,14 @@
         <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
-        <status>published</status>
+        <status>draft</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-22 03:23:08</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4ed3d1d283c902109d1e11d6feaad33a</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>New Request Created</sys_name>
         <sys_overrides/>
         <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
         <sys_update_name>sys_hub_flow_4ed3d1d283c902109d1e11d6feaad33a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-22 03:49:58</sys_updated_on>
+        <sys_updated_on>2024-03-23 09:10:24</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=4ed3d1d283c902109d1e11d6feaad33a"/>
@@ -93,10 +93,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-22 03:25:34</sys_created_on>
         <sys_id>3564551683c902109d1e11d6feaad3cd</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-22 03:49:58</sys_updated_on>
+        <sys_updated_on>2024-03-23 09:10:24</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -150,7 +150,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -209,14 +209,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-22 03:23:08</sys_created_on>
         <sys_id>52d3d1d283c902109d1e11d6feaad345</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-22 03:49:57</sys_updated_on>
+        <sys_updated_on>2024-03-23 09:10:24</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -234,7 +234,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -293,14 +293,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-22 03:23:08</sys_created_on>
         <sys_id>dad3d1d283c902109d1e11d6feaad355</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-22 03:49:57</sys_updated_on>
+        <sys_updated_on>2024-03-23 09:10:24</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -332,10 +332,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-22 03:40:14</sys_created_on>
         <sys_id>bcc7151a83c902109d1e11d6feaad36f</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-03-23 00:19:50</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-23 09:10:24</sys_updated_on>
         <ui_id>22cb63db-88ba-49fa-a20c-7841ef4bc284</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=bcc7151a83c902109d1e11d6feaad36f"/>
@@ -347,10 +347,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-22 03:40:14</sys_created_on>
         <sys_id>3cc7151a83c902109d1e11d6feaad372</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-22 03:40:14</sys_updated_on>
-        <value>assignment_group={"display":"BabySitter Group","value":"7ed5119683c902109d1e11d6feaad380","sys_id":"7ed5119683c902109d1e11d6feaad380"}</value>
+        <sys_updated_on>2024-03-23 09:10:24</sys_updated_on>
+        <value>assignment_group={"display":"BabySitter Group","value":"7ed5119683c902109d1e11d6feaad380","sys_id":"7ed5119683c902109d1e11d6feaad380"}^state=-5</value>
         <variable display_value="Fields">02d01916c31332002841b63b12d3aeee</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -421,10 +421,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-22 03:40:14</sys_created_on>
         <sys_id>f8c7151a83c902109d1e11d6feaad379</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-03-23 00:19:51</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-23 09:10:24</sys_updated_on>
         <ui_id>57fd4483-c3b8-48ec-a884-9dc69dfe5002</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f8c7151a83c902109d1e11d6feaad379"/>

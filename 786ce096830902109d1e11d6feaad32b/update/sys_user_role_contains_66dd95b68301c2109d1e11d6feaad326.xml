@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="user" name="user">b05926fa0a0a0aa7000130023e0bde98</contains>
+        <role display_value="x_1354925_babysi_0.user" name="x_1354925_babysi_0.user">786ce096830902109d1e11d6feaad34a</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-23 17:23:48</sys_created_on>
+        <sys_id>66dd95b68301c2109d1e11d6feaad326</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user.x_1354925_babysi_0.user</sys_name>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_update_name>sys_user_role_contains_66dd95b68301c2109d1e11d6feaad326</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-23 17:23:48</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

@@ -3,7 +3,7 @@
         <element function_definition="No" label="Allergy" max_length="40" name="allergy" type="boolean"/>
         <element label="Allergy List" max_length="40" name="allergy_list" type="string"/>
         <element default="1" function_definition="1" label="Children Age  " max_length="40" name="children_age" type="string"/>
-        <element choice="3" label="Children Number" mandatory="true" max_length="40" name="children_number" type="choice">
+        <element choice="3" default="1" label="Children Number" mandatory="true" max_length="40" name="children_number" type="choice">
             <choice>
                 <element inactive_on_update="false" label="1" sequence="0" value="1"/>
                 <element inactive_on_update="false" label="2" sequence="1" value="2"/>
@@ -12,8 +12,10 @@
                 <element inactive_on_update="false" label="5" sequence="4" value="5"/>
             </choice>
         </element>
-        <element label="End Date/Time" mandatory="true" max_length="40" name="end_date_time" type="glide_date_time"/>
-        <element label="Requester" mandatory="true" max_length="32" name="requester" read_only="true" reference="sys_user" type="reference"/>
+        <element label="Contact" mandatory="true" max_length="32" name="contact" reference="sys_user" type="reference"/>
+        <element label="Duration" mandatory="true" max_length="40" name="end_date_time" type="glide_date_time"/>
+        <element default="+11234567890" label="Phone " max_length="255" name="phone" type="phone_number_e164"/>
+        <element label="Requester" max_length="32" name="requester" read_only="true" reference="sys_user" type="reference"/>
         <element label="Start Date/Time" mandatory="true" max_length="40" name="start_date_time" type="glide_date_time"/>
     </element>
 </database>
