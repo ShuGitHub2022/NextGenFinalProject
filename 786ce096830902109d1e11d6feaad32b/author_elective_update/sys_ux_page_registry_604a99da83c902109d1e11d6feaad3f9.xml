@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>644a99da83c902109d1e11d6feaad3f9</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>babysitter-requester</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-22 03:51:14</sys_created_on>
+        <sys_id>604a99da83c902109d1e11d6feaad3f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BabySitter Requester</sys_name>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_update_name>sys_ux_page_registry_604a99da83c902109d1e11d6feaad3f9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-22 03:51:14</sys_updated_on>
+        <title>BabySitter Requester</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</application>
+        <file_path/>
+        <instance_id>0eea1f821b0182d4168f4089bd4bcb9c</instance_id>
+        <instance_name>dev247619</instance_name>
+        <name>sys_ux_page_registry_604a99da83c902109d1e11d6feaad3f9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>644a99da83c902109d1e11d6feaad3f9</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>babysitter-requester</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-22 03:51:14</sys_created_on><sys_id>604a99da83c902109d1e11d6feaad3f9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>BabySitter Requester</sys_name><sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package><sys_policy/><sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope><sys_update_name>sys_ux_page_registry_604a99da83c902109d1e11d6feaad3f9</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-22 03:51:14</sys_updated_on><title>BabySitter Requester</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1244392829</payload_hash>
+        <record_name>BabySitter Requester</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 23:29:50</sys_created_on>
+        <sys_id>ea08ad26838d42109d1e11d6feaad3f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e687fcfd40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:29:50</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>aa08ad26a98d42105f1f00fa77e0cbf2</update_guid>
+        <update_guid_history>aa08ad26a98d42105f1f00fa77e0cbf2:1244392829</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 23:29:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>02106e13abfd4ce08006a5b0ca887110</sys_id>
+        <sys_metadata>604a99da83c902109d1e11d6feaad3f9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BabySitter Requester</sys_name>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_scope_delete display_value="">5bf45c0593164d6eb7d81753bcf8aee1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_604a99da83c902109d1e11d6feaad3f9</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_604a99da83c902109d1e11d6feaad3f9">ea08ad26838d42109d1e11d6feaad3f2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:29:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

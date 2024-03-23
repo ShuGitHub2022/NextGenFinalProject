@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="BabySitter Requester">3f12bd62cfcd4210ce1c1c1684d8f401</dashboard>
+        <group/>
+        <role display_value="x_1354925_babysi_0.babysitter_manager" name="x_1354925_babysi_0.babysitter_manager">f06ce096830902109d1e11d6feaad345</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-23 00:13:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7c22fd6283cd42109d1e11d6feaad33e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3f12bd62cfcd4210ce1c1c1684d8f401</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_update_name>par_dashboard_permission_7c22fd6283cd42109d1e11d6feaad33e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-23 00:13:57</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">bad829a6c08d421041080d7f999d6380</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-22 23:33:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>76d829a6b68d42100981629a24894982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_update_name>m2m_app_config_theme_76d829a6b68d42100981629a24894982</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:33:26</sys_updated_on>
+        <theme display_value="Light Theme">7ed829a6958d4210478b363fd93de680</theme>
+        <ux_app_configuration display_value="">62d829a6838d42109d1e11d6feaad315</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</application>
+        <file_path/>
+        <instance_id>0eea1f821b0182d4168f4089bd4bcb9c</instance_id>
+        <instance_name>dev247619</instance_name>
+        <name>m2m_app_config_theme_76d829a6b68d42100981629a24894982</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">bad829a6c08d421041080d7f999d6380</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-22 23:33:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>76d829a6b68d42100981629a24894982</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package><sys_policy/><sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope><sys_update_name>m2m_app_config_theme_76d829a6b68d42100981629a24894982</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-22 23:33:26</sys_updated_on><theme display_value="Light Theme">7ed829a6958d4210478b363fd93de680</theme><ux_app_configuration display_value="">62d829a6838d42109d1e11d6feaad315</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-1693444155</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 23:57:27</sys_created_on>
+        <sys_id>8f5ea16e838d42109d1e11d6feaad33a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e6899172d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:57:27</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>4f5ea16e098d42100df83dd46369e83a</update_guid>
+        <update_guid_history>4f5ea16e098d42100df83dd46369e83a:-1693444155</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c35ea16e838d42109d1e11d6feaad33c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 23:57:27</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>a1c2f74ef4e24e3c8ab7ad0ccb197c10</sys_id>
+        <sys_metadata>76d829a6b68d42100981629a24894982</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_scope_delete display_value="">5bf45c0593164d6eb7d81753bcf8aee1</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_76d829a6b68d42100981629a24894982</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_76d829a6b68d42100981629a24894982">8f5ea16e838d42109d1e11d6feaad33a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:57:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

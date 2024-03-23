@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="744ad9dac4c9021072e7c1997d7b865e" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1354925_babysi_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-22 03:51:15</sys_created_on>
+            <sys_id>f84ad9da06c902105d3a75e640b5645e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="384ad9da3cc9021046ba5d16453acc5e">744ad9dac4c9021072e7c1997d7b865e</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-22 03:51:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-22 03:51:15</sys_created_on>
+            <sys_id>bc4ad9da28c902101d7910aecbe0cd5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="384ad9da3cc9021046ba5d16453acc5e">744ad9dac4c9021072e7c1997d7b865e</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-22 03:51:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-22 03:51:15</sys_created_on>
+            <sys_id>fc4ad9daf1c9021002974299482e535c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="384ad9da3cc9021046ba5d16453acc5e">744ad9dac4c9021072e7c1997d7b865e</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-22 03:51:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-22 03:51:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>744ad9dac4c9021072e7c1997d7b865e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+            <sys_update_name>sys_ui_section_744ad9dac4c9021072e7c1997d7b865e</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-22 03:51:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_1354925_babysi_0)" name="custom_portal_settings_x_1354925_babysi_0">384ad9da3cc9021046ba5d16453acc5e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</application>
+        <file_path/>
+        <instance_id>0eea1f821b0182d4168f4089bd4bcb9c</instance_id>
+        <instance_name>dev247619</instance_name>
+        <name>sys_ui_section_744ad9dac4c9021072e7c1997d7b865e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="744ad9dac4c9021072e7c1997d7b865e" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1354925_babysi_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>time_zone</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2024-03-22 03:51:15</sys_created_on><sys_id>f84ad9da06c902105d3a75e640b5645e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="384ad9da3cc9021046ba5d16453acc5e">744ad9dac4c9021072e7c1997d7b865e</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-22 03:51:15</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2024-03-22 03:51:15</sys_created_on><sys_id>bc4ad9da28c902101d7910aecbe0cd5e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="384ad9da3cc9021046ba5d16453acc5e">744ad9dac4c9021072e7c1997d7b865e</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-22 03:51:15</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_language</element><position>2</position><sys_created_by>system</sys_created_by><sys_created_on>2024-03-22 03:51:15</sys_created_on><sys_id>fc4ad9daf1c9021002974299482e535c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="384ad9da3cc9021046ba5d16453acc5e">744ad9dac4c9021072e7c1997d7b865e</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-22 03:51:15</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-22 03:51:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>744ad9dac4c9021072e7c1997d7b865e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user</sys_name><sys_overrides/><sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package><sys_policy/><sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope><sys_update_name>sys_ui_section_744ad9dac4c9021072e7c1997d7b865e</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-22 03:51:15</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal settings (x_1354925_babysi_0)" name="custom_portal_settings_x_1354925_babysi_0">384ad9da3cc9021046ba5d16453acc5e</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1465406660</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 23:58:13</sys_created_on>
+        <sys_id>5a8e692e838d42109d1e11d6feaad37a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e6899ccc40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:58:13</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1a8e692e0a8d42100b9acee4cc2b657a</update_guid>
+        <update_guid_history>1a8e692e0a8d42100b9acee4cc2b657a:-1465406660</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 23:58:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>26277705d76c464791b4877164ee0bd9</sys_id>
+        <sys_metadata>744ad9dac4c9021072e7c1997d7b865e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_parent display_value="Sys User">8fba0c20d9313110cedf7dffddb48f5d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_scope_delete display_value="">5bf45c0593164d6eb7d81753bcf8aee1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_744ad9dac4c9021072e7c1997d7b865e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_744ad9dac4c9021072e7c1997d7b865e">5a8e692e838d42109d1e11d6feaad37a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:58:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

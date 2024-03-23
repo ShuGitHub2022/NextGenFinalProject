@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>This is a custom portal experience.</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>landing</landing_path>
+        <name>Custom Portal App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-23 00:06:45</sys_created_on>
+        <sys_id>ee7079ee838d42109d1e11d6feaad3c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal App Config</sys_name>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_update_name>sys_ux_app_config_ee7079ee838d42109d1e11d6feaad3c2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-23 00:06:45</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</application>
+        <file_path/>
+        <instance_id>0eea1f821b0182d4168f4089bd4bcb9c</instance_id>
+        <instance_name>dev247619</instance_name>
+        <name>sys_ux_app_config_ee7079ee838d42109d1e11d6feaad3c2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description>This is a custom portal experience.</description><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>landing</landing_path><name>Custom Portal App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-23 00:06:45</sys_created_on><sys_id>ee7079ee838d42109d1e11d6feaad3c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Custom Portal App Config</sys_name><sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package><sys_policy/><sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope><sys_update_name>sys_ux_app_config_ee7079ee838d42109d1e11d6feaad3c2</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-23 00:06:45</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>1732018649</payload_hash>
+        <record_name>Custom Portal App Config</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-23 00:12:46</sys_created_on>
+        <sys_id>abd1f56283cd42109d1e11d6feaad306</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e68a71f270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-23 00:12:46</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>6bd1f562f7cd42106d17c2e945d07806</update_guid>
+        <update_guid_history>6bd1f562f7cd42106d17c2e945d07806:1732018649</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-23 00:12:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>05a115b994c741ec847190be34717010</sys_id>
+        <sys_metadata>ee7079ee838d42109d1e11d6feaad3c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal App Config</sys_name>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_scope_delete display_value="">5bf45c0593164d6eb7d81753bcf8aee1</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_ee7079ee838d42109d1e11d6feaad3c2</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_ee7079ee838d42109d1e11d6feaad3c2">abd1f56283cd42109d1e11d6feaad306</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-23 00:12:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

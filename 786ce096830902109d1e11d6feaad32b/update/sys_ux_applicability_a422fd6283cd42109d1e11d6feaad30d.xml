@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1354925_babysi_0.Audience for app babysitter-requester</api_name>
+        <description/>
+        <name>Audience for app babysitter-requester</name>
+        <role_names/>
+        <roles>bc6ce096830902109d1e11d6feaad347,f06ce096830902109d1e11d6feaad345</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-23 00:13:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a422fd6283cd42109d1e11d6feaad30d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app babysitter-requester</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_update_name>sys_ux_applicability_a422fd6283cd42109d1e11d6feaad30d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-23 00:13:57</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

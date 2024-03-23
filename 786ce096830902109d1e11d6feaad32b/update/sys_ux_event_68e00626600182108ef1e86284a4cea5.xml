@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NAV_ITEM_SELECTED_RELAY_a8e0062687018210575547a2a8237ca4</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Link to destination Relay (New Home default)</label>
+        <props>[
+    {
+        "name": "route",
+        "fieldType": "string",
+        "interfaceApiName": "global.route",
+        "label": "Route type"
+    },
+    {
+        "name": "fields",
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "Route fields"
+    },
+    {
+        "name": "params",
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "Optionals parameters"
+    },
+    {
+        "name": "redirect",
+        "fieldType": "boolean",
+        "interfaceApiName": null,
+        "label": "Remove previous URL from browser history"
+    },
+    {
+        "name": "passiveNavigation",
+        "fieldType": "boolean",
+        "interfaceApiName": null,
+        "label": "Load in background (advanced)"
+    },
+    {
+        "name": "title",
+        "fieldType": "string",
+        "interfaceApiName": null,
+        "label": "Title (advanced)"
+    },
+    {
+        "name": "multiInstField",
+        "fieldType": "string",
+        "interfaceApiName": null,
+        "label": "Multi-instance field (advanced)"
+    },
+    {
+        "name": "targetRoute",
+        "fieldType": "string",
+        "interfaceApiName": null,
+        "label": "Sub-navigation route (advanced)"
+    },
+    {
+        "name": "external",
+        "fieldType": "json",
+        "interfaceApiName": "global.route",
+        "label": "External URL object"
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "External URL object",
+  "comment" : ""
+}, {
+  "message" : "Load in background (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Multi-instance field (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Optionals parameters",
+  "comment" : ""
+}, {
+  "message" : "Remove previous URL from browser history",
+  "comment" : ""
+}, {
+  "message" : "Route fields",
+  "comment" : ""
+}, {
+  "message" : "Route type",
+  "comment" : ""
+}, {
+  "message" : "Sub-navigation route (advanced)",
+  "comment" : ""
+}, {
+  "message" : "Title (advanced)",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-23 01:18:24</sys_created_on>
+        <sys_id>68e00626600182108ef1e86284a4cea5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (New Home default)</sys_name>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_update_name>sys_ux_event_68e00626600182108ef1e86284a4cea5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-23 01:18:24</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=68e00626600182108ef1e86284a4cea5"/>
+</record_update>

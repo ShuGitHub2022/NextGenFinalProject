@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="BabySitter Requester">e48a151e83c902109d1e11d6feaad36a</catalog_item>
+        <catalog_variable>IO:e15cd99e83c902109d1e11d6feaad3a4</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 04:11:20</sys_created_on>
+        <sys_id>10eedd52830d02109d1e11d6feaad327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>if_yes_please_provide_a_full_list_of_allergic_food_or_items</sys_name>
+        <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_10eedd52830d02109d1e11d6feaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 04:11:20</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'if_yes_please_provide_a_full_list_of_allergic_food_or_items' mandatory &amp; visible depending on 'do_your_child_children_have_allergy_to_anything'">04ce5d12830d02109d1e11d6feaad302</ui_policy>
+        <variable>if_yes_please_provide_a_full_list_of_allergic_food_or_items</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
