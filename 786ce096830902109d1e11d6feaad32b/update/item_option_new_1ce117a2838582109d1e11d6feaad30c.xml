@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>calendar_duration</field>
+        <field>duration_int</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -41,13 +41,13 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>calendar_duration</name>
+        <name>duration_int</name>
         <order>4</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>How may hours would you like the babysitter stay?</question_text>
+        <question_text>How may hours would you like the babysitter to stay?</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -77,17 +77,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-23 07:12:15</sys_created_on>
         <sys_id>1ce117a2838582109d1e11d6feaad30c</sys_id>
-        <sys_mod_count>9</sys_mod_count>
-        <sys_name>How may hours would you like the babysitter stay?</sys_name>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>How may hours would you like the babysitter to stay?</sys_name>
         <sys_package display_value="BabySitter Requester" source="x_1354925_babysi_0">786ce096830902109d1e11d6feaad32b</sys_package>
         <sys_policy/>
         <sys_scope display_value="BabySitter Requester">786ce096830902109d1e11d6feaad32b</sys_scope>
         <sys_update_name>item_option_new_1ce117a2838582109d1e11d6feaad30c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-23 08:05:33</sys_updated_on>
+        <sys_updated_on>2024-03-23 22:04:58</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>29</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

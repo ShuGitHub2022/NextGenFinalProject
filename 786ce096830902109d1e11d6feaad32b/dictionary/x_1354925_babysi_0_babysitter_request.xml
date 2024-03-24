@@ -13,8 +13,9 @@
             </choice>
         </element>
         <element label="Contact" mandatory="true" max_length="32" name="contact" reference="sys_user" type="reference"/>
+        <element default="1" display="true" label="Duration" mandatory="true" max_length="20" name="duration_int" type="integer"/>
         <element label="Duration" mandatory="true" max_length="40" name="end_date_time" type="glide_date_time"/>
-        <element default="+11234567890" label="Phone " max_length="255" name="phone" type="phone_number_e164"/>
+        <element default="+11234567890" label="Phone " mandatory="true" max_length="255" name="phone" type="phone_number_e164"/>
         <element label="Requester" max_length="32" name="requester" read_only="true" reference="sys_user" type="reference"/>
         <element label="Start Date/Time" mandatory="true" max_length="40" name="start_date_time" type="glide_date_time"/>
     </element>
