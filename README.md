@@ -22,7 +22,7 @@ Experience-
             
 3. babysitter: use babysitter workplace to access the application. view All my tasks, new tasks, and tasks on today
 
-UI policy/action and business rules were created as well. When Allergy is YES, madatory Allergy List will be pop up. 
+UI policy/action and business rules were created as well. When Allergy is YES, madatory Allergy List will be pop up. when new request created requester set to dynamic Me automatically saved.
             
 log and automation: New request creat: when a new requested is submitted by a requester, an email notification is sent to requester and babysitter manager.
                     Request assigned to a babysitter: When a requester is assigned to a babysitter, an email will be sent to babysitter, requester, and cc to manager as well. 
